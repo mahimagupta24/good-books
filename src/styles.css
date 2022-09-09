@@ -1,0 +1,44 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background-color: white;
+}
+.button {
+  border-radius: 0.5rem;
+  padding: 0.6rem;
+  margin: 3px;
+  background-color: transparent;
+  color: #3f37c9;
+  cursor: pointer;
+  font-size: medium;
+}
+.books {
+  margin-top: 10px;
+  background-color: #dee2ff;
+  display: block;
+  border-radius: 0.5rem;
+  margin-left: 5rem;
+  margin-right: 2rem;
+  padding: 1rem;
+  width: 50%;
+  text-align: center;
+  margin-left: 25%;
+}
+h1 {
+  color: blue;
+}
+h2 {
+  color: #3f37c9;
+}
+h3 {
+  color: blue;
+}
+h4 {
+  color: slateblue;
+  font-size: small;
+}
+h5 {
+  color: blue;
+}
