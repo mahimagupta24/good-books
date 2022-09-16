@@ -3,6 +3,7 @@ good-books
 
 Created with CodeSandbox
 
-tech stack used:
+Tech stack used:
+
 1.reactJS
 2.CSS
